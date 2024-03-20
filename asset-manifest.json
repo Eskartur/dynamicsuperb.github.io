@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dynamicsuperb.github.io/static/css/main.d7842fa6.chunk.css",
+    "main.js": "/dynamicsuperb.github.io/static/js/main.7ff34182.chunk.js",
+    "main.js.map": "/dynamicsuperb.github.io/static/js/main.7ff34182.chunk.js.map",
+    "runtime-main.js": "/dynamicsuperb.github.io/static/js/runtime-main.8e28828c.js",
+    "runtime-main.js.map": "/dynamicsuperb.github.io/static/js/runtime-main.8e28828c.js.map",
+    "static/css/2.3fc09832.chunk.css": "/dynamicsuperb.github.io/static/css/2.3fc09832.chunk.css",
+    "static/js/2.432459df.chunk.js": "/dynamicsuperb.github.io/static/js/2.432459df.chunk.js",
+    "static/js/2.432459df.chunk.js.map": "/dynamicsuperb.github.io/static/js/2.432459df.chunk.js.map",
+    "static/js/3.ac76bdfe.chunk.js": "/dynamicsuperb.github.io/static/js/3.ac76bdfe.chunk.js",
+    "static/js/3.ac76bdfe.chunk.js.map": "/dynamicsuperb.github.io/static/js/3.ac76bdfe.chunk.js.map",
+    "index.html": "/dynamicsuperb.github.io/index.html",
+    "static/css/2.3fc09832.chunk.css.map": "/dynamicsuperb.github.io/static/css/2.3fc09832.chunk.css.map",
+    "static/css/main.d7842fa6.chunk.css.map": "/dynamicsuperb.github.io/static/css/main.d7842fa6.chunk.css.map",
+    "static/js/2.432459df.chunk.js.LICENSE.txt": "/dynamicsuperb.github.io/static/js/2.432459df.chunk.js.LICENSE.txt",
+    "static/media/katex.min.css": "/dynamicsuperb.github.io/static/media/KaTeX_Typewriter-Regular.c5c02d76.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e28828c.js",
+    "static/css/2.3fc09832.chunk.css",
+    "static/js/2.432459df.chunk.js",
+    "static/css/main.d7842fa6.chunk.css",
+    "static/js/main.7ff34182.chunk.js"
+  ]
+}
